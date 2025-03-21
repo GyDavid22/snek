@@ -1,0 +1,4 @@
+.vscode
+dist/index.js
+node_modules
+package-lock.json

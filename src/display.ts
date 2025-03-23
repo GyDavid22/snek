@@ -1,4 +1,4 @@
-const SIZE: readonly [number, number] = [70, 150];
+const SIZE: readonly [number, number] = [25, 25];
 const SNAKE = 'snake';
 const FOOD = 'food';
 const CLASSES: readonly string[] = [SNAKE, FOOD];

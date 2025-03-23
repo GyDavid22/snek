@@ -26,7 +26,7 @@ class Snake {
         fillByCoordinate(this.cords[0][0], this.cords[0][1], SNAKE);
         this.placeFood();
         this.subscribe();
-        this.currentSpeed = 50;
+        this.currentSpeed = 100;
         this.createInterval();
     }
 

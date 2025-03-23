@@ -24,9 +24,9 @@ body {
 
 .cell {
     background-color: rgb(47, 47, 47);
-    margin: .025rem;
-    width: .4rem;
-    height: .4rem;
+    margin: .05rem;
+    width: .8rem;
+    height: .8rem;
 }
 
 .cell.snake {
